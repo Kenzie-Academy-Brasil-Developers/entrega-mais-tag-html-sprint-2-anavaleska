@@ -1,0 +1,41 @@
+*{
+  text-align: center;
+  padding: 10px;
+  border: none;
+}
+
+main{
+display: inline-block;
+text-align: center;
+}
+
+img {
+  border-radius:  0.75em;
+  border: 2px solid black;
+  padding: 0;
+  display: inline-block;
+  align-items: center;
+}
+
+h1{
+  display: flex;
+ }
+
+hr{
+  background-color: grey;
+  padding: 1px;
+}
+
+li {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+.listaNaoOrdenada{
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+}
+
